@@ -1,5 +1,5 @@
 # api-git
-Add users GitHub
+Add users
 
 # Passo 1
 `yarn`
